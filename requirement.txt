@@ -1,0 +1,12 @@
+opencv-python
+SpeechRecognition
+pyttsx3
+pyaudio
+🔧 Notes:
+opencv-python: For webcam access and face detection using Haar cascades.
+
+SpeechRecognition: To capture and interpret voice commands.
+
+pyttsx3: For text-to-speech responses.
+
+pyaudio: Required by SpeechRecognition for microphone input (may need special installation on Windows).
